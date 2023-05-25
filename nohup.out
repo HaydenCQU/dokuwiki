@@ -1,2 +1,19 @@
 Setting up watches.  Beware: since -r was given, this may take a while!
 Couldn't watch ~: No such file or directory
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+remote: Resolving deltas:   0% (0/1)        remote: Resolving deltas: 100% (1/1)        remote: Resolving deltas: 100% (1/1), completed with 1 local object.        
+To github.com:HaydenCQU/dokuwiki.git
+   466ada6..8a82003  master -> master
+[master 8a82003] Automatic commit
+ 4 files changed, 24 insertions(+)
+ create mode 100755 .htaccess
+ create mode 100755 autoCommit.sh
+ create mode 100644 help.md
+ create mode 100644 nohup.out
+Everything up-to-date
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch ~: No such file or directory
