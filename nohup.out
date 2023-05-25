@@ -2364,3 +2364,16 @@ To github.com:HaydenCQU/dokuwiki.git
 Everything up-to-date
 Setting up watches.  Beware: since -r was given, this may take a while!
 Couldn't watch ~: No such file or directory
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+remote: Resolving deltas:   0% (0/2)        remote: Resolving deltas:  50% (1/2)        remote: Resolving deltas: 100% (2/2)        remote: Resolving deltas: 100% (2/2), completed with 2 local objects.        
+To github.com:HaydenCQU/dokuwiki.git
+   5b173fb..af2e6b6  master -> master
+[master af2e6b6] Automatic commit
+ 1 file changed, 21 insertions(+)
+Everything up-to-date
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch ~: No such file or directory
