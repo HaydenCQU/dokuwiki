@@ -1,0 +1,116 @@
+====COIT13146 Term 1, 2023====
+====Project Team Meeting #1====
+---------------------------------------------------------------
+
+
+DATE OF MEETING:   19/05/2023
+LOCATION OF MEETING:   CQU Brisbane Campus
+TIME MEETING STARTED: 3:00PM	   	TIME MEETING ENDED:   3:30 pm 
+ATTENDEES:  Hayden Parsons, Daniel Kienast, Udaibir Bharti
+MEMBERS ABSENT:  
+ 
+MEETING CALLED BY: Hayden  
+MINUTES TAKEN BY:  30 
+AGENDA:
+Decide on the first steps, appoint a team leader, decide who’s doing what, the approach the team will take to tackle the project, and how we will communicate with one another, especially after term finishes and project not completed yet.
+
+Additional agenda items: 
+
+DISCUSSIONS OF AGENDA ITEMS:
+
+We discussed who is doing what and we assigned a team leader for our group.
+Hayden will do:
+Git Server
+Backup Server
+Dan Will do:
+Apache SSH Server
+Secure Shell
+Udaibir Will do:
+DHCP Server
+Gateway Server
+
+ACTION ITEMS: (List what each person must accomplish by a set date).
+Each week, we will give updates on what has been done, what we’re struggling with and what we need help with. We have added each other through Discord (A chatting platform) and will use that for communications, as well as future meetings and calls.  
+
+DECISION:  Group Leader is: Daniel Kienast
+Additional Decisions:
+The group's decisions were listed above.
+      
+
+====COIT13146 Term 1, 2023====
+====Project Team Meeting #2====
+---------------------------------------------------------------
+
+
+DATE OF MEETING:    22/05/2023
+LOCATION OF MEETING:  Discord 
+TIME MEETING STARTED: 3:30 PM	   	TIME MEETING ENDED: 4:15 PM
+ATTENDEES:    Hayden Parsons, Daniel Kienast, Udaibir Bharti
+MEMBERS ABSENT:  N/A 
+MEETING CALLED BY:  Daniel 
+MINUTES TAKEN BY:   
+AGENDA:
+Progress reports from all members, where are we with each project item and how much more work is to be done.  Review of all work done so far.  Problems – to be discussed and how to resolve them.  Ideas about how each item should be fulfilled.
+Additional agenda items: 
+   
+   
+STATUS OF ACTION ITEMS FROM PREVIOUS MEETINGS:
+   
+DISCUSSIONS OF AGENDA ITEMS:
+   
+We discussed what we were stuck on
+Assessment requirements 
+How the external server functions
+
+
+
+ACTION ITEMS: (List what each person must accomplish by a set date).
+Daniel
+Completion of Web and SSH by 5/06/2023
+Hayden
+Completion of Git and Backup by 5/06/2023
+UD
+Completion of DHCP and Gateway by 5/06/2023
+DECISIONS:
+We hosted our own external server
+We decided to host all of the VMs on a public server so we can work collaboratively on a single server and host all of our VMs there
+      
+
+
+
+====COIT13146 Term 1, 2022====
+====Project Team Meeting #3====
+---------------------------------------------------------------
+
+
+DATE OF MEETING:   
+LOCATION OF MEETING:   
+TIME MEETING STARTED:	   			TIME MEETING ENDED:   
+ATTENDEES:   Daniel Kienast, Hayden Parsons
+MEMBERS ABSENT:  Udaibir Bharti (Absent due to work)
+MEETING CALLED BY:  Hayden  
+MINUTES TAKEN BY:   
+AGENDA:
+Discuss work completed, and evaluate whether it fulfils the marking criteria; what remains to be done;  how to finish up and we need to agree on when we will submit the final project.  If we are too far behind or past the due date, then this is a crisis meeting – discuss how to catch up, what urgent actions everyone needs to take and by when.
+Additional agenda items: 
+  
+   
+STATUS OF ACTION ITEMS FROM PREVIOUS MEETINGS:
+   
+DISCUSSIONS OF AGENDA ITEMS:
+Web Server has been completed
+Git Server completed
+Backup Scripts have been made
+Backup output has been completed
+
+ACTION ITEMS: (List what each person must accomplish by a set date).
+Completion of the report by 9th June
+Complete the testing video on the 8th of June
+   
+DECISION: The team agrees that everyone will submit the assignment by: (date/time) 9th June, at around 10 PM AEST (1 hour before the official due time)
+
+Note:  submit all three Meeting Minutes as one document.  Add pages for any other meetings you wish to record.
+Other Team Notes:
+   
+
+

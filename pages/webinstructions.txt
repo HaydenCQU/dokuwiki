@@ -1,0 +1,17 @@
+==== Web Server Instructions ====
+Only staff with knowledge of Linux should do this task. If you don't have any experience in Linux please ask someone to help you.
+
+
+==SSH==
+SSH into the web server on port 22 using the staff member or contractor user account. Depending on your current user.
+
+
+==Important Info==
+The ssh keys of the server are stored in the /home/user/sshkey/
+
+
+==SSL Renewal==
+The CA and ssl certs are kept in /home/user/demoCA/ with the live certs stored in the ssl folder When you renew or create a new SSL cert don't push it to the live folder until you have validated by running to renew the cert run\\
+openssl x509 -req -days 365 -in server.csr -CA ca.cert.pem -CAkey cakey.pem -CAcreateserial -out server-2.crt -extfile server_ext.conf\\
+and verify it with\\
+openssl x509 -noout -text -in server-2.crt\\

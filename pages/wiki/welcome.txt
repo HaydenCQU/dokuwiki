@@ -7,7 +7,7 @@ Enjoy your work with DokuWiki,\\
 
 ===== Create your first pages =====
 
-Your wiki needs to have a start page. As long as it doesn't exist, this link will be red: [[:start]].
+Your wiki needs to have a start page. As long as it doesn't exist, this link will be red: [[:staffInstructions]].
 
 Go on, follow that link and create the page. If you need help with using the syntax you can always refer to the [[wiki:syntax|syntax page]].
 
