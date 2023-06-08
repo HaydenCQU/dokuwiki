@@ -2743,3 +2743,128 @@ To github.com:HaydenCQU/dokuwiki.git
 Everything up-to-date
 Setting up watches.  Beware: since -r was given, this may take a while!
 Couldn't watch ~: No such file or directory
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+remote: Resolving deltas:   0% (0/20)        remote: Resolving deltas:   5% (1/20)        remote: Resolving deltas:  10% (2/20)        remote: Resolving deltas:  15% (3/20)        remote: Resolving deltas:  20% (4/20)        remote: Resolving deltas:  25% (5/20)        remote: Resolving deltas:  30% (6/20)        remote: Resolving deltas:  35% (7/20)        remote: Resolving deltas:  40% (8/20)        remote: Resolving deltas:  45% (9/20)        remote: Resolving deltas:  50% (10/20)        remote: Resolving deltas:  55% (11/20)        remote: Resolving deltas:  60% (12/20)        remote: Resolving deltas:  65% (13/20)        remote: Resolving deltas:  70% (14/20)        remote: Resolving deltas:  75% (15/20)        remote: Resolving deltas:  80% (16/20)        remote: Resolving deltas:  85% (17/20)        remote: Resolving deltas:  90% (18/20)        remote: Resolving deltas:  95% (19/20)        remote: Resolving deltas: 100% (20/20)        remote: Resolving deltas: 100% (20/20), completed with 8 local objects.        
+To github.com:HaydenCQU/dokuwiki.git
+   30198d5..c11749d  master -> master
+[master c11749d] Automatic commit
+ 148 files changed, 1753 insertions(+), 59 deletions(-)
+ create mode 100644 attic/passwordpolicy.1686029049.txt.gz
+ create mode 100644 attic/passwordpolicy.1686029212.txt.gz
+ create mode 100644 attic/passwordpolicy.1686029271.txt.gz
+ create mode 100644 attic/passwordpolicy.1686029330.txt.gz
+ create mode 100644 attic/passwordpolicy.1686196314.txt.gz
+ create mode 100644 attic/start.1685081421.txt.gz
+ create mode 100644 attic/start.1685686880.txt.gz
+ create mode 100644 attic/start.1686197869.txt.gz
+ create mode 100644 attic/start.1686197947.txt.gz
+ create mode 100644 attic/start.1686197997.txt.gz
+ create mode 100644 attic/webinstructions.1686029963.txt.gz
+ create mode 100644 attic/webinstructions.1686030369.txt.gz
+ create mode 100644 attic/webinstructions.1686031315.txt.gz
+ create mode 100644 attic/webinstructions.1686031326.txt.gz
+ create mode 100644 attic/webinstructions.1686031332.txt.gz
+ create mode 100644 attic/webinstructions.1686031480.txt.gz
+ create mode 100644 attic/webinstructions.1686031690.txt.gz
+ create mode 100644 attic/webinstructions.1686196384.txt.gz
+ create mode 100644 attic/webinstructions.1686196406.txt.gz
+ create mode 100644 attic/webinstructions.1686196422.txt.gz
+ create mode 100644 attic/webinstructions.1686196430.txt.gz
+ create mode 100644 attic/wiki/welcome.1684170792.txt.gz
+ create mode 100644 attic/wiki/welcome.1686027944.txt.gz
+ create mode 100644 attic/wiki/welcome.1686029541.txt.gz
+ create mode 100644 cache/1/12812506b8d9d8a652a7186539550b25.i
+ create mode 100644 cache/1/12812506b8d9d8a652a7186539550b25.metadata
+ create mode 100644 cache/1/12812506b8d9d8a652a7186539550b25.xhtml
+ create mode 100644 cache/1/14bb84a0c3f3a3958d2df34531222b9e.i
+ create mode 100644 cache/1/14bb84a0c3f3a3958d2df34531222b9e.xhtml
+ create mode 100644 cache/2/26da4b89c32300e8a33e0ff22ac11cf6.i
+ create mode 100644 cache/2/26da4b89c32300e8a33e0ff22ac11cf6.xhtml
+ create mode 100644 cache/3/30d47eab4b9a9362aa1e073096267bbd.i
+ create mode 100644 cache/3/30d47eab4b9a9362aa1e073096267bbd.metadata
+ create mode 100644 cache/3/30d47eab4b9a9362aa1e073096267bbd.xhtml
+ create mode 100644 cache/6/648cfb48ca29287d623e5a97f5cf9679.i
+ create mode 100644 cache/6/648cfb48ca29287d623e5a97f5cf9679.metadata
+ create mode 100644 cache/6/648cfb48ca29287d623e5a97f5cf9679.xhtml
+ create mode 100644 cache/7/713a74fcf68d95464fdb6e670df7dcfd.i
+ create mode 100644 cache/7/713a74fcf68d95464fdb6e670df7dcfd.xhtml
+ create mode 100644 cache/7/7712f6e4bcc109b1994daf7ca46048d8.i
+ create mode 100644 cache/7/7712f6e4bcc109b1994daf7ca46048d8.xhtml
+ create mode 100644 cache/8/84c3ddcd8c05538f3385b7401f05e807.i
+ create mode 100644 cache/8/84c3ddcd8c05538f3385b7401f05e807.metadata
+ create mode 100644 cache/8/84c3ddcd8c05538f3385b7401f05e807.xhtml
+ create mode 100644 cache/8/85db69359fb4c1093fa048620cd9e37e.i
+ create mode 100644 cache/8/85db69359fb4c1093fa048620cd9e37e.xhtml
+ create mode 100644 cache/8/88430d2ce6f0bb15ca59994449154c29.i
+ create mode 100644 cache/8/88430d2ce6f0bb15ca59994449154c29.xhtml
+ create mode 100644 cache/8/89199a5a1b52bff1036f4ab57fc8885d.i
+ create mode 100644 cache/8/89199a5a1b52bff1036f4ab57fc8885d.xhtml
+ create mode 100644 cache/8/8e4874aa078082297646f6daa17666d1.i
+ create mode 100644 cache/8/8e4874aa078082297646f6daa17666d1.xhtml
+ create mode 100644 cache/9/9399527dfd4f9704d5fa3268780a6a5d.i
+ create mode 100644 cache/9/9399527dfd4f9704d5fa3268780a6a5d.xhtml
+ create mode 100644 cache/9/9885b52618286ddd794c43b6b0903268.i
+ create mode 100644 cache/9/9885b52618286ddd794c43b6b0903268.xhtml
+ create mode 100644 cache/9/9942098d4e1cf8da84caf00d6a68a63f.i
+ create mode 100644 cache/9/9942098d4e1cf8da84caf00d6a68a63f.xhtml
+ create mode 100644 cache/9/9a6979bf9c6a5ea34874cfc416cb4a8e.js
+ create mode 100644 cache/9/9a6979bf9c6a5ea34874cfc416cb4a8e.js.gz
+ create mode 100644 cache/9/9eae9661ab883edff35acac1c21d956a.css
+ create mode 100644 cache/9/9eae9661ab883edff35acac1c21d956a.css.gz
+ create mode 100644 cache/a/a2082087fa336105fdde07a44853cf23.i
+ create mode 100644 cache/a/a2082087fa336105fdde07a44853cf23.xhtml
+ create mode 100644 cache/a/a304cb2f6fa29e211702c6ae7ff6e435.i
+ create mode 100644 cache/a/a304cb2f6fa29e211702c6ae7ff6e435.metadata
+ create mode 100644 cache/a/a304cb2f6fa29e211702c6ae7ff6e435.xhtml
+ create mode 100644 cache/b/b071a9aa96ba2ae295142de57f81d8ca.i
+ create mode 100644 cache/b/b071a9aa96ba2ae295142de57f81d8ca.metadata
+ create mode 100644 cache/b/b071a9aa96ba2ae295142de57f81d8ca.xhtml
+ create mode 100644 cache/b/b380a997535a39eb7780b0ea5b1d6965.i
+ create mode 100644 cache/b/b380a997535a39eb7780b0ea5b1d6965.xhtml
+ create mode 100644 cache/c/c486cd04b58ce990d1cf576d70919b55.media.90x90.crop.png
+ create mode 100644 cache/d/d3dec11412c51749830d80bf482595a8.i
+ create mode 100644 cache/d/d3dec11412c51749830d80bf482595a8.xhtml
+ create mode 100644 cache/d/dd890c024cf3c7669579b81e4e0b24b7.i
+ create mode 100644 cache/d/dd890c024cf3c7669579b81e4e0b24b7.xhtml
+ create mode 100644 cache/e/eebb2ea0a89806de587c079e7954dc48.i
+ create mode 100644 cache/e/eebb2ea0a89806de587c079e7954dc48.xhtml
+ create mode 100644 cache/f/f15363355d57cd2fd6ce4729b957e398.i
+ create mode 100644 cache/f/f15363355d57cd2fd6ce4729b957e398.xhtml
+ create mode 100644 cache/f/f6e4af3cf4130fc29bd5ad2d45d10e56.i
+ create mode 100644 cache/f/f6e4af3cf4130fc29bd5ad2d45d10e56.xhtml
+ create mode 100644 cache/purgefile
+ create mode 100644 index/i1.idx
+ create mode 100644 index/i14.idx
+ create mode 100644 index/i17.idx
+ create mode 100644 index/w1.idx
+ create mode 100644 index/w14.idx
+ create mode 100644 index/w17.idx
+ create mode 100644 media/meeting_minuets_template.docx
+ create mode 100644 media/wiki/meeting_minuets_template.docx
+ create mode 100644 media_meta/meeting_minuets_template.docx.changes
+ create mode 100644 media_meta/wiki/meeting_minuets_template.docx.changes
+ create mode 100644 meta/_dokuwiki.changes
+ create mode 100644 meta/_dokuwiki.changes.trimmed
+ create mode 100644 meta/_media.changes
+ create mode 100644 meta/_media.changes.trimmed
+ create mode 100644 meta/passwordpolicy.changes
+ create mode 100644 meta/passwordpolicy.indexed
+ create mode 100644 meta/passwordpolicy.meta
+ create mode 100644 meta/start.changes
+ create mode 100644 meta/start.indexed
+ create mode 100644 meta/start.meta
+ create mode 100644 meta/webinstructions.changes
+ create mode 100644 meta/webinstructions.indexed
+ create mode 100644 meta/webinstructions.meta
+ create mode 100644 meta/wiki/welcome.changes
+ rewrite meta/wiki/welcome.meta (83%)
+ create mode 100644 pages/passwordpolicy.txt
+ create mode 100644 pages/start.txt
+ create mode 100644 pages/webinstructions.txt
+Everything up-to-date
+Setting up watches.  Beware: since -r was given, this may take a while!
+Couldn't watch ~: No such file or directory
